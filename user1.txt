@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 user1:commit 2
-=======
-user1:commit 1
 
 user2:commit 2
->>>>>>> user2
