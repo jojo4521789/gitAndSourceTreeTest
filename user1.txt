@@ -2,4 +2,4 @@ user1:commit 2
 
 user2:commit 2
 
-user3:commit 2
+user3:commit 3
